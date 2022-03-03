@@ -8,8 +8,8 @@
 <cite>Pino</cite> is not a single database, but rather the aggregation of several sub-databases.  
 Such databases are:
 
-- [**Relations**](Relations.md)**, a record of all of the organizations and individuals that joined across the editions of Scambi Festival.
-- [**<i lang='it'>Libro Soci</i>**](Libro Soci.md), the Italian name for the “members book”, a record of all of current and previous associates of our non-profit that we are compelled by law to record.
+- [**Relations**](Relations.md), a record of all of the organizations and individuals that joined across the editions of Scambi Festival.
+- <i lang='it'>[**Libro Soci**](Libro Soci.md)</i>, the Italian name for the “members book”, a record of all of current and previous associates of our non-profit that we are compelled by law to record.
 - [**Staff**](Staff.md), an extended version of <i lang='it'>Libro Soci</i>, including not only those that are officially and legally affiliated to us, but also those who temporarily joined as volunteers, helped us during special occasions, or <i lang='it'>soci</i> (members) who did not renew their subscription.
 - [**<cite lang='it'>Dissolvenze</cite>**](Dissolvenze.md), a record of all the people who joined <cite lang='it'>[Dissolvenze: i corti di Scambi](https://scambi.org/dissolvenze)</cite>, our short movie contest
 - [**Public**](Public.md), the record of all the people who participated to Scambi Festival across different editions
