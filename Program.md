@@ -29,6 +29,7 @@ Of course, *Program* refers to an edition at a time. Nevertheless, it is crucial
 - `people`: maximum people allowed to this activity
 - `material`: an array listing any material that is needed by this activity (e.g. `["pencils", "whiteboard", "a rope"]`)
 - `budget`: number in € quantifying the cost of this activity. This field should automatically populate [**<i lang='it'>Palanche</i>**][Palanche].
+- `media`: an array of URLs of directories and pages containing any sort of media about this specific activity, may them be pictures, videos, graphics, or anything else
 - `notes`: any sort of additional notes
 
 [Scambi]: https://scambi.org 'Scambi Festival official website'
