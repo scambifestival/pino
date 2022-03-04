@@ -1,13 +1,6 @@
-## Connections
+## Description
 
-- [Libro Soci], since it is a subset of this database
-
-<br>
-<br>
-
-## Automations
-
-N/D
+Note that [Libro Soci] is a subset of this database.
 
 <br>
 <br>
@@ -33,11 +26,16 @@ N/D
 `ex socio` inherit a lot of info from *Libro Soci*, nevertheless, for volunteers the only necerrary information is the one in bold.  
 **NOTE**: volunteers who do not subscribe to the association are very rare.
 
+[Scambi]: https://scambi.org 'Scambi Festival official website'
 [Relations]: Relations.md
 [Program]: Program.md
 [Ideas]: Ideas.md
 [Libro Soci]: LibroSoci.md
 [Staff]: Staff.md
+[Palanche]: Palanche.md
 [Dissolvenze]: Dissolvenze.md
 [Public]: Public.md
 [Newsletter]: Newsletter.md
+[Locations]: Locations.md
+[lab]: https://scambi.org/laboratori
+[pinoli]: https://scambi.org/pinoli

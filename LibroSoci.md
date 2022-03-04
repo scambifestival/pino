@@ -1,6 +1,6 @@
-## Connections
+## Description
 
-- [Staff], since it is a superset of this database
+Note that [Staff] is a superset of this database.
 
 <br>
 <br>
@@ -36,11 +36,16 @@
 - `address`: Residence address, e.g. `Via Dante Alighieri 81, 18038 Sanremo (IM), Italy`
 - `team`: the team this member is part of (one of <a href='https://wiki.scambi.org/books/base-knowledge/page/gruppi' target='_blank' title='Gruppi - Manuale di Scambiologia' hreflang='it'>these</a>) (e.g. `Libellule`)
 
+[Scambi]: https://scambi.org 'Scambi Festival official website'
 [Relations]: Relations.md
 [Program]: Program.md
 [Ideas]: Ideas.md
 [Libro Soci]: LibroSoci.md
 [Staff]: Staff.md
+[Palanche]: Palanche.md
 [Dissolvenze]: Dissolvenze.md
 [Public]: Public.md
 [Newsletter]: Newsletter.md
+[Locations]: Locations.md
+[lab]: https://scambi.org/laboratori
+[pinoli]: https://scambi.org/pinoli

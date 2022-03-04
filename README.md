@@ -9,13 +9,15 @@
 Such databases are:
 
 - **[Relations]**, a record of all of the organizations and individuals that joined across the editions of Scambi Festival.
-- **[Program]**, a collection of all the [laboratories], pinoli]
+- **[Program]**, a collection of all the [laboratories][lab], [pinoli], and anything that constitutes every edition of Scambi Festival. What [Relations] is with respect to people and guests, [Program] is with respect to content and activities.
 - **[Ideas]**, a record of all the ideas for guests and laboratories, containing information about the status of potential proposals submitted to them.
 - [**<i lang='it'>Libro Soci</i>**][Libro Soci], the Italian name for the “members book”, a record of all of current and previous associates of our non-profit that we are legally required to keep track of.
 - **[Staff]**, an extended version of <i lang='it'>Libro Soci</i>, including not only those that are officially and legally affiliated to us, but also those who temporarily joined as volunteers, helped us during special occasions, or <i lang='it'>soci</i> (members) who did not renew their subscription.
+- [**<i lang='it'>Palanche</i>**][Palanche], financial records
 - [**<cite lang='it'>Dissolvenze</cite>**][Dissolvenze], a record of all the people who joined <cite lang='it'>[Dissolvenze: i corti di Scambi](https://scambi.org/dissolvenze)</cite>, our short movie contest
 - **[Public]**, the record of all the people who participated to Scambi Festival across different editions
 - **[Newsletter]**, data of all the people who subscribed to our newsletter
+- **[Locations]**, associating coordinates to the names of locations where Scambi Festival activities take place.
 
 #### Notes
 
@@ -50,15 +52,16 @@ Data visualization, as of right now, is secondary, since we do not have much dat
 
 Transforming Pino in a (social media like) platform where people and independent festivals’ organizers could share and clone ideas and formats for contents, laboratories, etc.
 
-<br>
-<br>
-
 [Scambi]: https://scambi.org 'Scambi Festival official website'
 [Relations]: Relations.md
 [Program]: Program.md
 [Ideas]: Ideas.md
 [Libro Soci]: LibroSoci.md
 [Staff]: Staff.md
+[Palanche]: Palanche.md
 [Dissolvenze]: Dissolvenze.md
 [Public]: Public.md
 [Newsletter]: Newsletter.md
+[Locations]: Locations.md
+[lab]: https://scambi.org/laboratori
+[pinoli]: https://scambi.org/pinoli

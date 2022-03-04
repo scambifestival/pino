@@ -5,22 +5,6 @@ The purpose of *Relations* is to be a comprehensive archive of all the organizat
 <br>
 <br>
 
-## Connections
-
-Other DBs *Relations* should interact with, how, and why:
-
-- [Staff], as `ref` should point to an entry of this db
-
-<br>
-<br>
-
-## Automations
-
-All of these entries are entered manually.
-
-<br>
-<br>
-
 ## Fields
 
 Comprehensive explanation of the fields of this database:
@@ -42,11 +26,16 @@ Comprehensive explanation of the fields of this database:
 			- `sponsor`: this entity gave us money
 - `notes`: possible annotations
 
+[Scambi]: https://scambi.org 'Scambi Festival official website'
 [Relations]: Relations.md
 [Program]: Program.md
 [Ideas]: Ideas.md
 [Libro Soci]: LibroSoci.md
 [Staff]: Staff.md
+[Palanche]: Palanche.md
 [Dissolvenze]: Dissolvenze.md
 [Public]: Public.md
 [Newsletter]: Newsletter.md
+[Locations]: Locations.md
+[lab]: https://scambi.org/laboratori
+[pinoli]: https://scambi.org/pinoli

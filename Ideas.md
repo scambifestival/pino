@@ -7,11 +7,6 @@ In case an entry corresponds to a person, the purpose of this database becomes t
 <br>
 <br>
 
-## Connections
-
-<br>
-<br>
-
 ## Automations
 
 - Automatically adding entries by reading the messages sent on the Telegram group <cite>SCAMBIDEE</cite>, where any member of the staff could write ideas that pop up in their mind. Messages are sorted and ordered arbitrarily by who writes them by using hashtags. To have a clearer idea of what the group looks like, please [DM Tommi](https://t.me/xplosionmind).
@@ -39,11 +34,16 @@ Comprehensive explanation of the fields of this database:
  - `dialoguing`, the email has been answered and a dialogue has started
  - `ok`, when the status becomes “ok”, it means that this is not an idea anymore, but it is something sure to be added to the **Program**, and/or to [Relations](Relations.md)
 
+[Scambi]: https://scambi.org 'Scambi Festival official website'
 [Relations]: Relations.md
 [Program]: Program.md
 [Ideas]: Ideas.md
 [Libro Soci]: LibroSoci.md
 [Staff]: Staff.md
+[Palanche]: Palanche.md
 [Dissolvenze]: Dissolvenze.md
 [Public]: Public.md
 [Newsletter]: Newsletter.md
+[Locations]: Locations.md
+[lab]: https://scambi.org/laboratori
+[pinoli]: https://scambi.org/pinoli
