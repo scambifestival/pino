@@ -35,6 +35,10 @@ Note that [Staff] is a superset of this database.
 - `iscrizione`: the subscription date of this member (e.g. `2020-10-21`)
 - `address`: Residence address, e.g. `Via Dante Alighieri 81, 18038 Sanremo (IM), Italy`
 - `team`: the team this member is part of (one of <a href='https://wiki.scambi.org/books/base-knowledge/page/gruppi' target='_blank' title='Gruppi - Manuale di Scambiologia' hreflang='it'>these</a>) (e.g. `Libellule`)
+- `documents` either an URL pointing to the filled out PDF on [Nuvola], or an attachment containing the filled out form itself, of the following documents
+  - Liberatoria dati (data usage waiver)
+  - Liberatoria immagini (images usage waiver)
+  - Non-Disclosure Agreement 
 
 [Scambi]: https://scambi.org 'Scambi Festival official website'
 [Relations]: Relations.md
@@ -47,5 +51,6 @@ Note that [Staff] is a superset of this database.
 [Public]: Public.md
 [Newsletter]: Newsletter.md
 [Locations]: Locations.md
+[Nuvola]: https://nuvola.scambi.org '“Nuvola„ - Scambi Festival’s cloud'
 [lab]: https://scambi.org/laboratori
 [pinoli]: https://scambi.org/pinoli
