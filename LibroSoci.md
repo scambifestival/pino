@@ -7,6 +7,7 @@ Note that [Staff] is a superset of this database.
 
 ## Automations
 
+- the `team`, `image` and `bio` fields should automatically populate the entries for each person in the “who we are” page on scambi.org (each sime a new person is added to the db, she should automatically be added to the page of the group she belongs to)
 - when the `role` of a member becomes `ex socio`, it should be automatically moved to [Staff]
 
 <br>
@@ -34,7 +35,9 @@ Note that [Staff] is a superset of this database.
 - `quota associativa`: array of years for which the member has renewed her subscription (e.g. `[2021,2022]`)
 - `iscrizione`: the subscription date of this member (e.g. `2020-10-21`)
 - `address`: Residence address, e.g. `Via Dante Alighieri 81, 18038 Sanremo (IM), Italy`
-- `team`: the team this member is part of (one of <a href='https://wiki.scambi.org/books/base-knowledge/page/gruppi' target='_blank' title='Gruppi - Manuale di Scambiologia' hreflang='it'>these</a>) (e.g. `Libellule`)
+- `team`: the team this member is part of (one of <a href='https://wiki.scambi.org/books/base-knowledge/page/gruppi' target='_blank' title='Gruppi - Manuale di Scambiologia' hreflang='it'>these</a>) (e.g. `Libellule`), to sync with scambi.org
+- `image`: URL pointing to the profile image (e.g. `https://upload.wikimedia.org/wikipedia/commons/6/65/Max_Weber%2C_1918.jpg`), to sync with scambi.org
+- `bio`: the bio of this person (e.g. `a German sociologist, historian, jurist, and political economist regarded as among the most important theorists of the development of modern Western society.`), to sync with scambi.org
 - `documents` either an URL pointing to the filled out PDF on [Nuvola], or an attachment containing the filled out form itself, of the following documents
   - Liberatoria dati (data usage waiver)
   - Liberatoria immagini (images usage waiver)
