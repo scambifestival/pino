@@ -17,6 +17,7 @@ Such databases are:
 - [**<cite lang='it'>Dissolvenze</cite>**][Dissolvenze], a record of all the people who joined <cite lang='it'>[Dissolvenze: i corti di Scambi](https://scambi.org/dissolvenze)</cite>, our short movie contest
 - **[Public]**, the record of all the people who participated to Scambi Festival across different editions
 - **[Newsletter]**, data of all the people who subscribed to our newsletter
+- **[Rassegna Stampa]**, a collection of all the mentions of Scambi on any press publication
 - **[Locations]**, associating coordinates to the names of locations where Scambi Festival activities take place.
 
 #### Notes
@@ -62,6 +63,7 @@ Transforming Pino in a (social media like) platform where people and independent
 [Dissolvenze]: Dissolvenze.md
 [Public]: Public.md
 [Newsletter]: Newsletter.md
+[Rassegna Stampa]: RassegnaStampa.md
 [Locations]: Locations.md
 [lab]: https://scambi.org/laboratori
 [pinoli]: https://scambi.org/pinoli
