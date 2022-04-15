@@ -27,6 +27,7 @@ Of course, *Program* refers to an edition at a time. Nevertheless, it is crucial
 - `duration`: number of minutes this activity lasts for, e.g. `90`
 - `times`: array of times and dates this activity takes place at, e.g. `['2022-08-25T10:30:00+01:00', '2022-08-25T14:30:00+01:00', '2022-08-26T10:30:00+01:00', '2022-08-26T14:30:00+01:00']` (note that times are stored according to the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601 'ISO 8601 on Wikipedia') format. Every occurrence of any activity should have <strong id=token>an automatically generated token</strong>, so that [Public] can refer not to one activity only, but to the specific occurrence one person participates to.
 - `people`: maximum people allowed to this activity
+- `lang`: array of available languages this activity is available in (using [ISO 3166-1 alpha-2 country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 'ISO 3166-1 alpha-2 on Wikipedia')), e.g. `["it", "en"]`
 - `material`: an array listing any material that is needed by this activity (e.g. `["pencils", "whiteboard", "a rope"]`)
 - `budget`: number in € quantifying the cost of this activity. This field should automatically populate [**<i lang='it'>Palanche</i>**][Palanche].
 - `media`: an array of URLs of directories and pages containing any sort of media about this specific activity, may them be pictures, videos, graphics, or anything else
